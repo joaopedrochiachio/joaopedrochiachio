@@ -19,6 +19,5 @@ Sou estudante de Engenharia de Software no Inatel e atuo como Assistente de Dese
 
 ### 📊 As minhas estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrochiachio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrochiachio&layout=compact&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrochiachio&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
 </div>
