@@ -1,23 +1,48 @@
-# Olá, eu sou o João Pedro Chiachio de Paiva! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Assistente+de+Desenvolvimento+Focado+em+IA;Construindo+soluções+inteligentes+e+eficientes;Engenharia+de+Software+@+Inatel" alt="Typing SVG" />
+</div>
 
-Sou estudante de Engenharia de Software no Inatel e atuo como Assistente de Desenvolvimento, com grande foco na integração de Inteligência Artificial. 🚀
+<br/>
 
 ### 👨‍💻 Sobre mim
-- 🤖 Trabalho ativamente com **GitHub Copilot**, criação de agentes e construção de Provas de Conceito (POCs).
-- ⚙️ Foco em testes, suporte, implementação e sustentação de soluções baseadas em IA corporativa.
-- 💻 Combino o meu conhecimento em desenvolvimento Web (**React, TypeScript, JavaScript**) com **Python** e plataformas de bases de dados.
-- 🌟 Sou o programador do **Vitality AI**, um projeto open-source robusto, e do **Wallet AI**, focado em soluções eficientes de gestão.
-- 🎓 Sou um entusiasta por novas tecnologias e presença assídua em eventos de inovação (como o HackTown!).
+- 🤖 Criador do **Vitality AI** e do **Wallet AI**.
+- ⚙️ Trabalho com integração de **Inteligência Artificial**, agentes virtuais (Copilot) e POCs corporativas.
+- 🎓 Estudante de Engenharia de Software apaixonado por tecnologia, inovação e eventos (presença garantida no HackTown!).
 
-### 🛠 Tecnologias e Ferramentas
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white)
+---
 
-### 📊 As minhas estatísticas
+### 🧠 Tech Stack
 <div align="center">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,python,firebase,github,vscode&theme=dark" alt="My Skills"/>
+  </a>
+  <br/>
+</div>
+
+<br/>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrochiachio&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <br/>
+</div>
+
+<br/>
+
+---
+
+### 🌍 Vamos Conectar?
+<div align="center">
+  <br/>
+  <a href="https://linkedin.com/in/joaopedrochiachio" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:chiachioo04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <br/>
 </div>
