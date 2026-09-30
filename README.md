@@ -1,5 +1,7 @@
+# Olá, eu sou o João Pedro Chiachio de Paiva! 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Assistente+de+Desenvolvimento+Focado+em+IA;Construindo+soluções+inteligentes+e+eficientes;Engenharia+de+Software+@+Inatel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=Assistente+de+Desenvolvimento;Foco+em+Inteligencia+Artificial;Engenharia+de+Software+no+Inatel" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -7,7 +9,7 @@
 ### 👨‍💻 Sobre mim
 - 🤖 Criador do **Vitality AI** e do **Wallet AI**.
 - ⚙️ Trabalho com integração de **Inteligência Artificial**, agentes virtuais (Copilot) e POCs corporativas.
-- 🎓 Estudante de Engenharia de Software apaixonado por tecnologia, inovação e eventos (presença garantida no HackTown!).
+- 🎓 Estudante de Engenharia de Software no Inatel, apaixonado por tecnologia, inovação e eventos (presença garantida no HackTown!).
 
 ---
 
