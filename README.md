@@ -8,16 +8,17 @@ Construo produtos e soluções com **Inteligência Artificial**: de agentes corp
 
 - 💼 **Prática**: desenvolvimento em IA no Centro de Excelência, com POCs, agentes (Copilot Studio, RAG) e governança de IA
 - 🎓 **Inatel**: Engenharia de Software
-- 🚀 **Hash**: hub de produtos digitais com IA, junto com o Leo
+- 🌟 **Google**: Embaixador Estudantil 2026
 - 📍 Presença garantida no HackTown
+
+🌐 **Portfólio:** [github.com/joaopedrochiachio/portfolio-jp](https://github.com/joaopedrochiachio/portfolio-jp)
 
 ## 🚀 Projetos em destaque
 
 | Projeto | O que é | Stack |
 | --- | --- | --- |
-| 💳 **[Wallet AI](https://github.com/joaopedrochiachio/wallet-app)** | Finanças pessoais com um analista de IA que explica o mês mostrando de onde saiu cada número. Importa extratos em PDF, OFX e CSV. | Next.js · TypeScript · OpenAI · Firebase |
+| 💳 **[Wallet AI](https://github.com/joaopedrochiachio/wallet-app)** · [demo](https://wallet-app-neon-ten.vercel.app/) | Finanças pessoais com um analista de IA que explica o mês mostrando de onde saiu cada número. Importa extratos em PDF, OFX e CSV. | Next.js · TypeScript · OpenAI · Firebase |
 | 🧓 **[Vitality AI](https://github.com/vitality60AI-FETIN/VitalityAI)** · [demo](https://vitality-ai-mu.vercel.app/) | Acompanhamento de exercícios, alimentação e bem-estar para pessoas com 60+, com IA. Projeto FETIN/Inatel. | Next.js · React · Firebase · Gemini |
-| **#** **[Hash](https://github.com/joaopedrochiachio/hash-portal)** | Site institucional da Hash, nosso hub de produtos com IA. | Vite · React · TypeScript |
 | 🎓 **[App Inatel + Mural NESP](https://github.com/joaopedrochiachio/projeto-s05)** | Portal acadêmico com mural de vagas de estágio e vídeo interativo de demonstração. Trabalho de IHC. | Next.js · TypeScript · Tailwind |
 | ❄️ **[Refrinova](https://github.com/joaopedrochiachio/Refrinova)** · [site](https://refrinova.ind.br/) | Site institucional para empresa de refrigeração industrial. | HTML · CSS · JavaScript |
 
@@ -38,6 +39,7 @@ Construo produtos e soluções com **Inteligência Artificial**: de agentes corp
 ## 🌍 Contato
 
 <div align="center">
+  <a href="https://github.com/joaopedrochiachio/portfolio-jp"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"></a>
   <a href="https://linkedin.com/in/joaopedrochiachio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:chiachioo04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </div>
